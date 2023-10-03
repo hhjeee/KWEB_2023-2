@@ -1,3 +1,3 @@
 # KWEB_2023-2
 
-2023-1 KWEB Back-end Study
+2023-1 KWEB Backend Study
